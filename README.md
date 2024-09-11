@@ -13,7 +13,6 @@
 - 🏢 I'm an Electrical Electronics and Communication Engineer.
 - 👨‍💻 As a student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with communication and signal analysis.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://www.linkedin.com/in/adammohamed1/ to see some of the projects I've worked on.
 
 
